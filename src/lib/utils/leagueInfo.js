@@ -23,7 +23,6 @@ There’s only one who leaves us all behind.</p>
 In Sawyer’s realm, where hopes accrue,
 But remember this as we all fight—
 One will reign, the rest, goodnight</p> 
-`;
 
 /*   STEP 3   */
 /*
